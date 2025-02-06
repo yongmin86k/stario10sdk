@@ -55,6 +55,18 @@ And create the patch file for the conflicting package as well.
 npm run patch-package {{package-name}}
 ```
 
+5. Modify `Podfile` in React Native Projects
+
+```ruby
+target 'YourApp' do
+  use_frameworks!
+
+  # Manually link the StarIO10 framework
+  pod 'StarIO10', :path => '../node_modules/s@yongmin86k/star-io-10'
+end
+
+```
+
 ---
 
 ## License

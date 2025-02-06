@@ -3,10 +3,6 @@
   "version": "2.8.0",
   "description": "StarIO10 framework to fix conflicts with react-native-star-io10",
   "main": "index.js",
-  "types": "index.d.ts",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [
     "react-native",
     "react-native-star-io10",

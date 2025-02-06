@@ -7,5 +7,5 @@ Pod::Spec.new do |s|
   s.source       = { :git => "https://github.com/yongmin86k/stario10sdk.git" }
   s.authors      = "Yongmin Kim"
 
-  s.vendored_frameworks = 'Frameworks/StarIO10.xcframework'
+  s.vendored_frameworks = 'ios/Frameworks/StarIO10.xcframework'
 end
