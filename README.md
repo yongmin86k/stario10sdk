@@ -1,6 +1,6 @@
 # StarIO10 swift package
 
-This package is for fixing the issue when there is conflicts with [`react-native-star-io10`](https://github.com/star-micronics/react-native-star-io10) package.
+This package fixes issues when the [`react-native-star-io10`](https://github.com/star-micronics/react-native-star-io10) package conflicts.
 
 ## Requirements
 
