@@ -1,6 +1,6 @@
 {
   "name": "@yongmin86k/star-io-10",
-  "version": "2.9.0",
+  "version": "2.9.1",
   "description": "StarIO10 framework to fix conflicts with react-native-star-io10",
   "main": "index.js",
   "keywords": [
