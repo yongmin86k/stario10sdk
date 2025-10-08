@@ -6,7 +6,7 @@ This package fixes issues when the [`react-native-star-io10`](https://github.com
 
 | package                                                                            | version   |
 | ---------------------------------------------------------------------------------- | --------- |
-| [react-native-star-io10](https://github.com/star-micronics/react-native-star-io10) | `v1.8.0+` |
+| [react-native-star-io10](https://github.com/star-micronics/react-native-star-io10) | `v1.10.0+` |
 | [patch-package](https://github.com/ds300/patch-package)                            | `v8.0.0+` |
 
 ## Installation
@@ -62,7 +62,7 @@ target 'YourApp' do
   use_frameworks!
 
   # Manually link the StarIO10 framework
-  pod 'StarIO10', :path => '../node_modules/s@yongmin86k/star-io-10'
+  pod 'StarIO10', :path => '../node_modules/@yongmin86k/star-io-10'
 end
 
 ```
