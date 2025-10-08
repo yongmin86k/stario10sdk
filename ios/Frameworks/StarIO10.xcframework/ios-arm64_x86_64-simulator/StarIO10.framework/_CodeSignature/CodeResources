@@ -8,69 +8,65 @@
 		<data>
 		bSrs0hlMREl5cyhWygjh5egwcGY=
 		</data>
-		<key>Headers/StarIO10-Swift.h</key>
-		<data>
-		FIeSiL9v9x9l6YM2vbI5KXWFe2s=
-		</data>
 		<key>Headers/StarIO10.h</key>
 		<data>
 		dybr/zMhhbk0+ZAGNdkAkMm76WM=
 		</data>
 		<key>Headers/StarIO10Error.h</key>
 		<data>
-		OHasbZmzNSZYgnU5k+680H34V4c=
+		MoFS8+FwVYZR/Wc1KYLDfVPZYbY=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		cRhTcHQ6QDnp1lcZO0ZttxBIe/M=
+		IVGlqekP3w8tH2+VL3CVRPqSYFs=
 		</data>
 		<key>Modules/StarIO10.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		vYwYRpt9aFZGwaC120U93YfdTYE=
+		dwEZfp+zoEIKZvMKyJa0kHC/jUo=
 		</data>
 		<key>Modules/StarIO10.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		Xf2s8MRHSW9jC1It1UeUDs1O7Zc=
+		e7M7rXbZ1xMn38xluCq/yKm4x8k=
 		</data>
 		<key>Modules/StarIO10.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		Pv3r02+pYq3gH9ed8kD75DtU4UY=
+		o2ESqSQtwM8bNTiyKHkDObCQryQ=
 		</data>
 		<key>Modules/StarIO10.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		Xf2s8MRHSW9jC1It1UeUDs1O7Zc=
+		e7M7rXbZ1xMn38xluCq/yKm4x8k=
 		</data>
 		<key>Modules/StarIO10.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ngBxPKsMQ/WD85BPk7bMXUchsRw=
+		VhmhzwcDLPKH1/GW3EE4Wcq6ZVE=
 		</data>
 		<key>Modules/StarIO10.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		vYwYRpt9aFZGwaC120U93YfdTYE=
+		dwEZfp+zoEIKZvMKyJa0kHC/jUo=
 		</data>
 		<key>Modules/StarIO10.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		8PFXp49f80sPY7ITaco9zts2O5s=
+		g1QsQi8EKMY190CG7VFRscvqDZU=
 		</data>
 		<key>Modules/StarIO10.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		NQnK/JFFPXQABMwo3gdhDWBlh5k=
+		qL2PB1lmqkiUkLRSNjw1TtLnPtQ=
 		</data>
 		<key>Modules/StarIO10.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		8PFXp49f80sPY7ITaco9zts2O5s=
+		g1QsQi8EKMY190CG7VFRscvqDZU=
 		</data>
 		<key>Modules/StarIO10.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		orD/S/m/WwpYsJqchbSAEQUM6e0=
+		xBGqbl1lCuUtGj7W84p3Yb3zOMg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		ayIam194lqeYlMS/rUt9inus96c=
+		NO3iI8nLNNaIco5H+nRcGY8kf0g=
 		</data>
 		<key>PrivacyInfo.xcprivacy</key>
 		<data>
-		qxGEbkx6/JjDYdjU0gcKH1TZBNo=
+		aSrU9GEm9D0fBaOnTedM+0E19rM=
 		</data>
 		<key>PrivateHeaders/StarLoggerWrapper.h</key>
 		<data>
@@ -90,13 +86,6 @@
 			OmEix5pAKnDuoGZVnudZCuA9ymGZt7k+1HvvgRI4PDA=
 			</data>
 		</dict>
-		<key>Headers/StarIO10-Swift.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			+2932YjiGCy/bo225E///fs8TXLeEeQPQXBOro5/nB8=
-			</data>
-		</dict>
 		<key>Headers/StarIO10.h</key>
 		<dict>
 			<key>hash2</key>
@@ -108,91 +97,91 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yVWgK2ZK952O5qz0X0cR2HQsD2dAvQe/UZuGN1/3QQM=
+			ZCu+8TOY+Y0M+6mcgPszjRPZ9cFP0cu++BBXkxwKZoQ=
 			</data>
 		</dict>
 		<key>Modules/StarIO10.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VON8PLTTmV+t8akouxnF8wxm3nA8NoXYlQpsYe5mzDc=
+			vpeVzgdrBLx8+HhWZLcGGeS/IY5oI3pwSNrHMpaxEWY=
 			</data>
 		</dict>
 		<key>Modules/StarIO10.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2IcqtLaErGaBsIoTsxxnfTm0zs3W8QQ/y+ZqMrdUjfU=
+			vKua9efUHj9LOKbcG8SRQs4XKOZDSM4Baj2nEW3zEEo=
 			</data>
 		</dict>
 		<key>Modules/StarIO10.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hvnsPrX0j+rG2by1BhT4VIxKbqSQrKPY0bw1UinaInQ=
+			jvkdN2Md5joySPtuc5FJd2/elU88/pmbfG2x2o/NGJA=
 			</data>
 		</dict>
 		<key>Modules/StarIO10.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2IcqtLaErGaBsIoTsxxnfTm0zs3W8QQ/y+ZqMrdUjfU=
+			vKua9efUHj9LOKbcG8SRQs4XKOZDSM4Baj2nEW3zEEo=
 			</data>
 		</dict>
 		<key>Modules/StarIO10.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MzP1BpIucD/F+LqvSyIQbmbyB3q00lpSICqGW/JQeWg=
+			9zJyHIPsg8cqCyfeW+jBvVO0keQMT2ANQ7g2akm8exw=
 			</data>
 		</dict>
 		<key>Modules/StarIO10.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VON8PLTTmV+t8akouxnF8wxm3nA8NoXYlQpsYe5mzDc=
+			vpeVzgdrBLx8+HhWZLcGGeS/IY5oI3pwSNrHMpaxEWY=
 			</data>
 		</dict>
 		<key>Modules/StarIO10.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zbWMzfoj2lWDanv55Kcb5plPi58fPZVGnbYsA7KeuhI=
+			qt3FJCLfQANk5R2nr8+iUyNWENHLT7h6xjccnc0Lf6c=
 			</data>
 		</dict>
 		<key>Modules/StarIO10.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5+wPmM1+o6nsYaLV3uzqBPVFOyrSAbzv5w1++pH3JJU=
+			Gq1qSVsOjuW2TpslTztA10PIcl5wFAzIRHiQNKGlYVs=
 			</data>
 		</dict>
 		<key>Modules/StarIO10.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zbWMzfoj2lWDanv55Kcb5plPi58fPZVGnbYsA7KeuhI=
+			qt3FJCLfQANk5R2nr8+iUyNWENHLT7h6xjccnc0Lf6c=
 			</data>
 		</dict>
 		<key>Modules/StarIO10.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mJptx423xU+Yb7qUcYdWVyxOWzZMCohKnFnkkiqreUc=
+			VPw0Jnmt2RhGa9UrCWt5grqMVOQjEYcEaWflR69LkLY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			37UN0wat+rLTp1tws0ln+IRLnt2WhbRg5QhbXy+LmD8=
+			bgIsasuTjZwYq9KADwrdtGnFZaKxiVWZwmNxq0wD7yA=
 			</data>
 		</dict>
 		<key>PrivacyInfo.xcprivacy</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			r3yVF8sfm4zf+02X6TnOrfLCJwS8DObOityU/cOxLn8=
+			kzNCmzfATf+crEBiEzsYgqnCT0fw4B+/t1tdKAEv+Ls=
 			</data>
 		</dict>
 		<key>PrivateHeaders/StarLoggerWrapper.h</key>
